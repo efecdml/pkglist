@@ -33,6 +33,7 @@ mousai
 nethogs
 nvtop
 okular
+pacseek
 plasma
 plasma-wayland-session
 piper
