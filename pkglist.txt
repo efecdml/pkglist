@@ -45,6 +45,7 @@ systemd-kcm
 timeshift
 tor-browser
 tree
+virtualbox
 youtube-dl-gui-git
 zsh
 xorg
