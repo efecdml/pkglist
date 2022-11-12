@@ -59,9 +59,6 @@ pacseek
 plasma
 plasma-wayland-session
 phonon-qt5-gstreamer
-pulseaudio-bluetooth
-pulseaudio-ctl
-pulseaudio-zeroconf
 piper
 protonvpn-gui
 pavucontrol
