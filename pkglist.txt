@@ -37,6 +37,7 @@ kdenlive
 kolourpaint
 konsole
 krita
+latte-dock-git
 libcanberra
 libdvdcss
 lib32-libcanberra
